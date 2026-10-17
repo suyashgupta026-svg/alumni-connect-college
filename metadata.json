@@ -1,0 +1,6 @@
+{
+  "name": "Alumify",
+  "description": "University Alumni Mentorship Platform connecting students with verified alumni for 1-on-1 career chats and async resume reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
